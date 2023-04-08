@@ -6,3 +6,7 @@
 使用
 - Python
 - Flask
+
+起動
+1. python app.pyを実行
+2.　ブラウザでhttp://127.0.0.1:8000にアクセス
